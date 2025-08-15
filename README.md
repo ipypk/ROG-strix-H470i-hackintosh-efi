@@ -1,4 +1,5 @@
 # ROG-strix-H470i-hackintosh-efi
+
 Hackintosh MacOS Sequioa 15.6 (Build 24G84)
 - Motherboard: Asus ROG Strix H470i itx
 - Processor: Intel Core i9-10900
@@ -14,7 +15,7 @@ Hackintosh MacOS Sequioa 15.6 (Build 24G84)
 - Bootloader: Opencore 1.0.5
 - OS Version: Sequoia 15.6 Build 24G84
 
-# What’s Working??
+## What’s Working??
 - CPU Power management
 - Restart / Shutdown
 - Rear jack audio
@@ -26,5 +27,5 @@ Hackintosh MacOS Sequioa 15.6 (Build 24G84)
 - Handoff and airdrop
 - iMessage / FaceTime
 
-# Not working
+## Not working
 - Sleep 
