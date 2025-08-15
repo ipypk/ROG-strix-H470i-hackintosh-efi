@@ -1,6 +1,6 @@
 # ROG-strix-H470i-hackintosh-efi
 
-Hackintosh MacOS Sequioa 15.6 (Build 24G84)
+## Hackintosh MacOS Sequioa 15.6 (Build 24G84)
 - Motherboard: Asus ROG Strix H470i itx
 - Processor: Intel Core i9-10900
 - GPU: Radeon RX 5600XT
