@@ -28,4 +28,6 @@
 - iMessage / FaceTime
 
 ## Not working
-- Sleep 
+- Sleep
+  
+(Screenshot.png)
